@@ -1,0 +1,7 @@
+dctts:
+    venv: /home/capstone2020/virtualenvironment/dctts-env
+    pkg: /home/capstone2020/Desktop/dc_tts
+
+wav2lip:
+    venv: /home/capstone2020/virtualenvironment/wav2lip-env
+    pkg: /home/capstone2020/Desktop/Wav2Lip

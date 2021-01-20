@@ -1,0 +1,7 @@
+dctts:
+    venv: /home/asim/dc_tts_proj/dctts-env
+    pkg: /home/asim/dc_tts_proj/dc_tts
+
+wav2lip:
+    venv: /home/asim/wav2lip_proj/wav2lip-env
+    pkg: /home/asim/wav2lip_proj/Wav2Lip
